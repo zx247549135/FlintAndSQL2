@@ -1,0 +1,13 @@
+.idea
+*.iml
+out
+*.class
+*.jar
+target/
+.cache
+.history
+*.log
+dist/*
+project/boot
+project/plugins/project
+data/
